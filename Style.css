@@ -1,7 +1,8 @@
 body {
     background: linear-gradient(to bottom, white, gray);
 }
-head { background: linear-gradient(to bottom, white, gray);
+head { 
+    background: linear-gradient(to bottom, white, gray);
 }
 h1 {
   color: red;
