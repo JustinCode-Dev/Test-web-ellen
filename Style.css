@@ -8,10 +8,12 @@ h1 {
   color: blue;
   font-family: Times New Roman;
   font-size: 35px;
+  padding: 10px;
 }
 h2 {
   color: light blue;
-  font-family: Times New Roman
-  font-size: 28
+  font-family: Times New Roman;
+  font-size: 28px;
+  padding: 10px;
 }
 
